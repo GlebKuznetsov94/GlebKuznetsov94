@@ -1,6 +1,6 @@
 # 👋🏻 Hey, my name is Gleb Kuznetsov, I'm a Frontend-developer!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=console.log(Мечтаю+и+Создаю)+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Console.log(dream+and+create)+)](https://git.io/typing-svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebKuznetsov94&layout=compact)](https://github.com/GlebKuznetsov94/github-readme-stats)
 
