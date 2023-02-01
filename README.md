@@ -1,7 +1,5 @@
 # 👋🏻 Hey, my name is Gleb Kuznetsov, I'm a Frontend-developer!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Работать+нужно+не+12+часов,+а+головой!+Стив+Джобс)](https://git.io/typing-svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlebKuznetsov94&layout=compact)](https://github.com/GlebKuznetsov94/github-readme-stats)
 
 ## 🛠 My hard skills:
@@ -15,11 +13,8 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" align="left" width="30" alt="Vue">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="30" alt="Node.js">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="30" alt="Git">]()
-<br/>
 
 ## ✉️ Contacts:
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="left" width="30" alt="Telegram">](https://t.me/Gleb_Kuznetsov94)
 [<img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" align="left" width="30" alt="VK">](https://vk.com/glebkuznetsov)
 [<img src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png" align="left" width="30" alt="Email">](mailto:GlebKuznetsov.inc@yandex.ru)
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/GlebKuznetsov94/GlebKuznetsov94/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/GlebKuznetsov94/GlebKuznetsov94/output/github-contribution-grid-snake.svg#gh-light-mode-only)
