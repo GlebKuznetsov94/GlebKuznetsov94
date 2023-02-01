@@ -7,12 +7,14 @@
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="30" alt="CSS">]() 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="30" alt="JavaScript">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="30" alt="React">]()
+<br>
 
 ## 📚 Now I'm studying
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="30" alt="Typescript">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" align="left" width="30" alt="Vue">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="30" alt="Node.js">]()
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="30" alt="Git">]()
+<br>
 
 ## ✉️ Contacts:
 [<img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" align="left" width="30" alt="Telegram">](https://t.me/Gleb_Kuznetsov94)
